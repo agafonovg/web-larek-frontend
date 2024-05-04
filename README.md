@@ -51,7 +51,7 @@ yarn build
 
 ## Архитектура
 
-![UML scheme](docs/uml.png)
+![UML scheme](/docs/image.png)
 
 Приложение реализовано по MVP архитектуре и состоит из компонентов:
 

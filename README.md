@@ -300,10 +300,3 @@ enum Events {
 	CLOSE_MODAL = 'modal:close', // снятие блокировки при закрытии модального окна
 }
 ```
-
-## Размещение в сети
-
-Код проекта доступен по адресу: [https://github.com/ilkaxd/web-larek-frontend](https://github.com/ilkaxd/web-larek-frontend)
-
-
-Рабочая версия приложения доступна по адресу: // TODO: добавить ссылку
